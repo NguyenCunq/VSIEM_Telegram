@@ -94,4 +94,4 @@ nano /var/ossec/etc/ossec.conf
     </integration>
     
  ----------------------------------------------------------------------------------------------------------
- systemctl restart wazuh-manager
+ systemctl restart vsiem-manager
